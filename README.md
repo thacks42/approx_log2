@@ -4,7 +4,7 @@ A reasonably fast log2 implementation for ieee floats
 
 ## Algorithm description
 
-we want to decompose x into a natural number and a fractional part
+we want to decompose x into an integer and a fractional part
 
 using the fact that any x will in some half-open interval `[ 2^n, 2^(n+1) )`
 
